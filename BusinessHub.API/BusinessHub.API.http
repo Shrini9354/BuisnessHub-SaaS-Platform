@@ -1,0 +1,6 @@
+@BusinessHub.API_HostAddress = http://localhost:5208
+
+GET {{BusinessHub.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

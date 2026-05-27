@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BusinessHub.API/BusinessHub.API.csproj" />
+  <Project Path="BusinessHub.Application/BusinessHub.Application.csproj" />
+  <Project Path="BusinessHub.Domain/BusinessHub.Domain.csproj" />
+  <Project Path="BusinessHub.Infrastructure/BusinessHub.Infrastructure.csproj" />
+</Solution>
